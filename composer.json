@@ -1,5 +1,5 @@
 {
-	"name": "aimeos/ai-monolog",
+	"name": "buyingsquare/commerce-ext-monolog",
 	"description": "Monolog adapter for Aimeos web shops and e-commerce solutions",
 	"keywords": ["aimeos", "adapter", "monolog", "log", "shop", "e-commerce"],
 	"homepage": "https://aimeos.org/",
